@@ -147,7 +147,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=blindrusheroffical-wq&show_icons=true&theme=transparent&title_color=e94560&text_color=a8b2d8&icon_color=e94560&border_color=e94560&bg_color=1a1a2e"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adameehanaira&show_icons=true&theme=transparent&title_color=e94560&text_color=a8b2d8&icon_color=e94560&border_color=e94560&bg_color=1a1a2e"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adameehanaira&layout=compact&theme=transparent&title_color=e94560&text_color=a8b2d8&border_color=e94560&bg_color=1a1a2e"/>
 
 </div>
