@@ -148,7 +148,7 @@ if __name__ == "__main__":
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=blindrusheroffical-wq&show_icons=true&theme=transparent&title_color=e94560&text_color=a8b2d8&icon_color=e94560&border_color=e94560&bg_color=1a1a2e"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blindrusheroffical-wq&layout=compact&theme=transparent&title_color=e94560&text_color=a8b2d8&border_color=e94560&bg_color=1a1a2e"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adameehanaira&layout=compact&theme=transparent&title_color=e94560&text_color=a8b2d8&border_color=e94560&bg_color=1a1a2e"/>
 
 </div>
 
@@ -174,7 +174,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blindrusheroffical-wq&bg_color=1a1a2e&color=e94560&line=e94560&point=a8b2d8&area=true&hide_border=false&border_color=e94560)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adameehanaira&bg_color=1a1a2e&color=e94560&line=e94560&point=a8b2d8&area=true&hide_border=false&border_color=e94560)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -206,8 +206,8 @@ if __name__ == "__main__":
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560)](https://www.linkedin.com/in/adam-eehan-1058133b7?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:me@airaai.work.gd)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefoxbrowser&logoColor=e94560)](https://your-portfolio.com)
 
 </div>
