@@ -194,7 +194,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-[![DOI](https://img.shields.io/badge/DOI-10.%2Fhttps://zenodo.org/records/21546006-1a1a2e?style=for-the-badge&logo=doi&logoColor=e94560)](https://doi.org/10.XXXX/your-doi-here)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21546006-1a1a2e?style=for-the-badge&logo=doi&logoColor=e94560)](https://doi.org/10.5281/zenodo.21546006)
 
 </div>
 
