@@ -186,7 +186,7 @@ if __name__ == "__main__":
 
 <img src="https://shields.io" alt="Google AI">
 <img src="https://shields.io" alt="Python DS">
-<a href="https://doi.org"><img src="https://shields.io" alt="DOI"></a>
+<a href="https://doi.org"><img src="https://zenodo.org" alt="DOI" height="28"></a>
 
 </div>
 
