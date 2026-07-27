@@ -186,6 +186,9 @@ if __name__ == "__main__":
 
 ![Google AI](https://img.shields.io/badge/Google_AI_Fundamentals-1a1a2e?style=for-the-badge&logo=google&logoColor=e94560)
 ![Python DS](https://img.shields.io/badge/Python_for_Data_Science-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
+<a href="https://doi.org/10.5281/zenodo.21546006">
+  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21546006.svg" alt="DOI">
+</a>
 
 </div>
 
