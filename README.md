@@ -184,11 +184,9 @@ if __name__ == "__main__":
 
 <div align="center">
 
-![Google AI](https://img.shields.io/badge/Google_AI_Fundamentals-1a1a2e?style=for-the-badge&logo=google&logoColor=e94560)
-![Python DS](https://img.shields.io/badge/Python_for_Data_Science-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
+![Google AI](https://shields.io)
+![Python DS](https://shields.io)
 [![DOI](https://shields.io)](https://doi.org)
-
-
 
 </div>
 
