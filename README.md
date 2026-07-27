@@ -220,7 +220,7 @@ if __name__ == "__main__":
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560)](https://www.linkedin.com/in/adam-eehan-1058133b7)
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:me@airaai.work.gd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefoxbrowser&logoColor=e94560)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefoxbrowser&logoColor=e94560)](https://adameehan.vercel.app/)
 
 </div>
 
