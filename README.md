@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Adam%20Eehan&fontSize=65&fontColor=e94560&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Builder&descAlignY=58&descColor=a8b2d8&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Adam%20Eehan&fontSize=65&fontColor=e94560&fontAlignY=38&desc=AI%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=E94560&center=true&vCenter=true&width=650&lines=Building+AI+that+matters+%F0%9F%A4%96;Python+%7C+C+%7C+C%2B%2B+Developer;Creator+of+Aira+%7C+Pixora+%7C+Adam-AI;Engineers+are+creators%2C+not+just+users+%F0%9F%92%AA;Sun+gives+light%2C+Moon+gives+glow+%F0%9F%8C%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=E94560&center=true&vCenter=true&width=650&lines=Building+AI+that+matters+%F0%9F%A4%96;Python+%7C+C+%7C+C%2B%2B+%7C+JavaScript;AI+Engineer+%26+Software+Developer;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=blindrusheroffical-wq&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -147,14 +147,14 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adameehanaira&show_icons=true&theme=transparent&title_color=e94560&text_color=a8b2d8&icon_color=e94560&border_color=e94560&bg_color=1a1a2e"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adameehanaira&layout=compact&theme=transparent&title_color=e94560&text_color=a8b2d8&border_color=e94560&bg_color=1a1a2e"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adameehanaira&show_icons=true&theme=transparent&title_color=e94560&text_color=a8b2d8&icon_color=e94560&border_color=e94560" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adameehanaira&layout=compact&theme=transparent&title_color=e94560&text_color=a8b2d8&border_color=e94560&bg_color=1a1a2e" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=blindrusheroffical-wq&theme=transparent&hide_border=false&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=a8b2d8&background=1a1a2e&border=e94560"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=blindrusheroffical-wq&theme=transparent&hide_border=false&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560" />
 
 </div>
 
@@ -174,7 +174,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adameehanaira&bg_color=1a1a2e&color=e94560&line=e94560&point=a8b2d8&area=true&hide_border=false&border_color=e94560)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adameehanaira&bg_color=1a1a2e&color=e94560&line=e94560&point=a8b2d8&area=true&hide_border=false&border_color=e94560)]()
 
 </div>
 
@@ -186,9 +186,6 @@ if __name__ == "__main__":
 
 ![Google AI](https://img.shields.io/badge/Google_AI_Fundamentals-1a1a2e?style=for-the-badge&logo=google&logoColor=e94560)
 ![Python DS](https://img.shields.io/badge/Python_for_Data_Science-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
-<a href="https://doi.org/10.5281/zenodo.21546006">
-  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21546006.svg" alt="DOI">
-</a>
 
 </div>
 
@@ -209,7 +206,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560)](https://www.linkedin.com/in/adam-eehan-1058133b7?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560)](https://www.linkedin.com/in/adam-eehan-1058133b7)
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:me@airaai.work.gd)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefoxbrowser&logoColor=e94560)](https://your-portfolio.com)
 
