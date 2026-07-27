@@ -187,6 +187,9 @@ if __name__ == "__main__":
 <img src="assets/mlops-vertexai-badge.jpg" alt="MLOps with Vertex AI: Model Evaluation" width="220" />
 
 </div>
+
+---
+
 ## 📄 Research Paper
 
 <div align="center">
