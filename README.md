@@ -184,11 +184,12 @@ if __name__ == "__main__":
 
 <div align="center">
 
-![Google AI](https://shields.io)
-![Python DS](https://shields.io)
-[![DOI](https://shields.io)](https://doi.org)
+<img src="https://shields.io" alt="Google AI">
+<img src="https://shields.io" alt="Python DS">
+<a href="https://doi.org"><img src="https://shields.io" alt="DOI"></a>
 
 </div>
+
 
 ---
 
