@@ -183,11 +183,12 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<a href="https://google.com"><img src="https://shields.io" alt="Google AI"></a>
-<a href="https://python.org"><img src="https://shields.io" alt="Python DS"></a>
-<a href="https://doi.org"><img src="https://zenodo.org" alt="DOI" height="28"></a>
+<img src="https://google.com" alt="Google" height="35" style="vertical-align:middle; margin-right:15px;">
+<img src="https://python.org" alt="Python" height="35" style="vertical-align:middle; margin-right:15px;">
+<a href="https://doi.org" target="_blank"><img src="https://zenodo.org" alt="DOI" height="35" style="vertical-align:middle;"></a>
 
 </div>
+
 ---
 
 ## 🌙 Philosophy
