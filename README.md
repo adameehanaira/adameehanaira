@@ -183,9 +183,8 @@ if __name__ == "__main__":
 
 <div align="center">
 
-![Google Certified](https://img.shields.io/badge/Google_Certified-1a1a2e?style=for-the-badge&logo=google&logoColor=e94560)
-![Python Certified](https://img.shields.io/badge/Python_Certified-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
-[![DOI](https://img.shields.io/badge/DOI_Verified-1a1a2e?style=for-the-badge&logo=doi&logoColor=e94560)](https://zenodo.org/records/21546006)
+<img src="assets/mlops-genai-badge.jpg" alt="MLOps for Generative AI" width="220" />
+<img src="assets/mlops-vertexai-badge.jpg" alt="MLOps with Vertex AI: Model Evaluation" width="220" />
 
 </div>
 
