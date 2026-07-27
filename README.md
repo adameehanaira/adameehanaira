@@ -183,9 +183,9 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img src="https://google.com" alt="Google" height="35" style="vertical-align:middle; margin-right:15px;">
-<img src="https://python.org" alt="Python" height="35" style="vertical-align:middle; margin-right:15px;">
-<a href="https://doi.org" target="_blank"><img src="https://zenodo.org" alt="DOI" height="35" style="vertical-align:middle;"></a>
+![Google Certified](https://img.shields.io/badge/Google_Certified-1a1a2e?style=for-the-badge&logo=google&logoColor=e94560)
+![Python Certified](https://img.shields.io/badge/Python_Certified-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
+[![DOI](https://img.shields.io/badge/DOI_Verified-1a1a2e?style=for-the-badge&logo=doi&logoColor=e94560)](https://doi.org)
 
 </div>
 
