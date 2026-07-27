@@ -179,16 +179,25 @@ if __name__ == "__main__":
 </div>
 
 ---
-
 ## 🏅 Certifications
 
 <div align="center">
 
-<img src="https://shields.io" alt="Google AI">
-<img src="https://shields.io" alt="Python DS">
+<a href="https://google.com"><img src="https://shields.io" alt="Google AI"></a>
+<a href="https://python.org"><img src="https://shields.io" alt="Python DS"></a>
 <a href="https://doi.org"><img src="https://zenodo.org" alt="DOI" height="28"></a>
 
 </div>
+## 🏅 Certifications
+
+<div align="center">
+
+<a href="https://google.com"><img src="https://shields.io" alt="Google AI"></a>
+<a href="https://python.org"><img src="https://shields.io" alt="Python DS"></a>
+<a href="https://doi.org"><img src="https://zenodo.org" alt="DOI" height="28"></a>
+
+</div>
+
 
 
 ---
