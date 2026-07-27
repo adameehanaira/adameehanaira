@@ -188,18 +188,6 @@ if __name__ == "__main__":
 <a href="https://doi.org"><img src="https://zenodo.org" alt="DOI" height="28"></a>
 
 </div>
-## 🏅 Certifications
-
-<div align="center">
-
-<a href="https://google.com"><img src="https://shields.io" alt="Google AI"></a>
-<a href="https://python.org"><img src="https://shields.io" alt="Python DS"></a>
-<a href="https://doi.org"><img src="https://zenodo.org" alt="DOI" height="28"></a>
-
-</div>
-
-
-
 ---
 
 ## 🌙 Philosophy
