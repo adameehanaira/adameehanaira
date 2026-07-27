@@ -187,6 +187,15 @@ if __name__ == "__main__":
 <img src="assets/mlops-vertexai-badge.jpg" alt="MLOps with Vertex AI: Model Evaluation" width="220" />
 
 </div>
+## 📄 Research Paper
+
+<div align="center">
+
+[![DOI](https://img.shields.io/badge/DOI-10.XXXX%2Fhttps://zenodo.org/records/21546006-1a1a2e?style=for-the-badge&logo=doi&logoColor=e94560)](https://doi.org/10.XXXX/your-doi-here)
+
+</div>
+
+---
 
 ---
 
