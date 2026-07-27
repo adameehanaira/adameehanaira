@@ -185,6 +185,7 @@ if __name__ == "__main__":
 
 <img src="assets/mlops-genai-badge.jpg" alt="MLOps for Generative AI" width="220" />
 <img src="assets/mlops-vertexai-badge.jpg" alt="MLOps with Vertex AI: Model Evaluation" width="220" />
+<img src="assets/mlops-google.jpg" alt="Corsira Certification" width="220" />
 
 </div>
 
